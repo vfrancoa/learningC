@@ -1,3 +1,8 @@
+/*
+Primer programa en c, emulando la libreria conio.h 
+de turbo c.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 void clrscr()
