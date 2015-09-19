@@ -5,6 +5,8 @@ como reemplazo de codio.h en turbo c
 
 #include <ncurses.h>
 
+int marco();
+
 int main() 
 {
   char nombre[30];
