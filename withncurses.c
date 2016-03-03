@@ -6,8 +6,7 @@ como reemplazo de codio.h en turbo c
 #include <ncurses.h>
 
 int marco();
-<<<<<<< HEAD
-=======
+
 
 int main() 
 {
@@ -15,7 +14,6 @@ int main()
   char pass[30];
 
   initscr();
->>>>>>> efd0140704e5f8fbae24459f7ee9f52a79922c6f
 
   if( has_colors() )
   {	
