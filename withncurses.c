@@ -1,5 +1,6 @@
 #include <ncurses.h>
 
+int marco();
 
 int main() {
 	char nombre[30];
